@@ -1,3 +1,3 @@
-# Athropos.github.io
+# nicriz.github.io
 
 Personal website
